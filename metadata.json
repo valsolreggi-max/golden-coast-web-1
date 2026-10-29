@@ -1,0 +1,8 @@
+{
+  "name": "Remix Golden Coast Property Advisory",
+  "description": "Sitio web de asesoría inmobiliaria boutique en la Costa Dorada con enfoque mediterráneo y editorial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
